@@ -1,0 +1,6 @@
+﻿  candleBot.cpp
+C:\Users\tclon\Desktop\developer\CandleBot\CandleBot\CandleBot\candleBot.cpp(20,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tclon\Desktop\developer\CandleBot\CandleBot\CandleBot\candleBot.cpp(33,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CandleBot.vcxproj -> C:\Users\tclon\Desktop\developer\CandleBot\CandleBot\x64\Debug\CandleBot.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
